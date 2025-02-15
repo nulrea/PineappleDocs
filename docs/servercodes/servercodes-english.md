@@ -37,8 +37,8 @@ Warnings are displayed in the UI as a comment next to the force-server command, 
 | --- | --- |
 | `A` | Map (or maps) that the command is providing maps for. |
 | `B` | Copy button (appears on mouseover). |
-| `C` | Force-server command (see [Forcing Servers](#forcing-servers)). |
-| `D` | The raw server code. |
+| `C` | The raw server code. |
+| `D` | Force-server command (see [Forcing Servers](#forcing-servers)). |
 
 ### Forcing Servers
 #### Current Servers
