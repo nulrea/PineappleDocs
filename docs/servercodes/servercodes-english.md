@@ -4,7 +4,7 @@ This document is available in the following languages: [English](servercodes-eng
 Pineapple offers a server code tracker for the online game [florr.io](https://florr.io) which can be useful when hunting Super mobs or finding servers to farm in. The following offers a overview of its functions.
 
 ## Servers Tracker
-The primary server tracking function can be accessed with `.servers`, or `.sv` for short. The command syntax is `.servers (map)`. There are a few shortcuts for the different maps, outlined below:
+The primary server tracking function can be accessed with `.servers`, or `.sv` for short. The command syntax is `.servers (map)`. If you prefer to use slash commands in your server, you can also access this utility using `/servercodes servers`, or `/servers` for short. There are a few shortcuts for the different maps, outlined below:
 ```
 g → Garden
 d → Desert
