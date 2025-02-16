@@ -16,7 +16,7 @@ sw → Sewers
 bg → Battle Ground
 all → All Servers
 ```
-This function returns the server codes of all servers if no argument is passed, or `all` is specified.
+This function returns the server codes of all servers if no argument is passed, or `all` is specified. The slash command equivalent also has Discord selection options, meaning that you are not strictly limited to these shortcuts and your Discord client will do its best job to infer which map you were trying to select.
 
 Server codes are given with their `cp6.forceServerID` command prefilled and with a copy button at the corner of the code box for easy copying. As of Pineapple v5.0.0, this code can be directly pasted into the florr.io console; it no longer contains ANSI data to color the text.
 
